@@ -195,9 +195,7 @@
 </div>
     
 <!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
-</p>
+
    
   
   
@@ -217,9 +215,6 @@
 
 ------
 
-[Rahul Dhanola](https://github.com/DHANOLA)
-
-Last Edited on: 09/09/2021
 
 
 ------ -->
