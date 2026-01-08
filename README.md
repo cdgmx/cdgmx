@@ -1,220 +1,56 @@
+Hi 👋, I'm Christian Dave Montalban
+Senior Software Engineer – Backend, Platform & Mobile Tech Lead
+<!-- Profile views badge --> <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiandavemontalban&label=Profile%20views&color=0e75b6&style=flat" alt="christiandavemontalban" /> </p>
 
+I’m a hands‑on tech lead who isn’t afraid to call out bloated architectures or half‑baked agile rituals. I’ve been busy transforming monolithic systems into scalable AWS microservices and modernizing mobile/web platforms while building proper CI/CD pipelines. That’s how you get software into users’ hands—by ripping out the cruft and shipping.
 
+🌱 I’m currently learning LLM agents (LangGraph, AutoGen, CrewAI), vector databases (Pinecone, Qdrant), LangChain and other advanced AI frameworks. The hype around AI is real, but I’m digging into how to actually wire these tools into products instead of playing with toy examples.
 
-<!-- ### Hi there 👋
+👯 I’m looking to collaborate on backend microservices, platform modernization, AI/LLM tooling, and meaningful open‑source contributions. I don’t waste time on vanity projects; if it doesn’t move the needle, I’m not interested.
 
-## I'm Christian Dave montalban
+🤝 I’m looking for help with scaling AI agents for production and optimizing large‑scale data pipelines. If you’ve solved these problems for real workloads, let’s talk.
 
-### 💻 &nbsp;About Me 
+💬 Ask me about backend architecture, microservices, AWS/GCP, mobile development, GraphQL, and CI/CD. I’ll give you the uncensored truth about what works and what’s overrated.
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
+📫 How to reach me: mailchristianmontalban@gmail.com
 
+⚡ Fun fact: My event pipeline upgrade boosted Trustpilot ratings to 4.9 and user reviews 14×. Real business impact matters more than fluff.
 
-<br>
+🧑‍💻 Portfolio: All of my projects are available at christiandavemontalban.dev
 
+Connect with me:
+<p align="left"> <a href="https://github.com/christiandavemontalban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="christiandavemontalban" height="30" width="40" /></a> <a href="https://linkedin.com/in/christian-dave-montalban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-dave-montalban" height="30" width="40" /></a> </p>
+Languages and Tools:
+<p align="left"> <!-- Programming languages --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" /></a> <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" /></a> <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" /></a> <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40" /></a> <a href="https://isocpp.org/get-started" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40" /></a> <!-- Backend & Frameworks -->
 
+<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" /></a>
+<a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40" /></a>
+<a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40" /></a>
+<a href="https://laravel.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=reactnative" alt="react-native" width="40" height="40" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40" /></a>
+<a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" /></a>
 
+<!-- Databases -->
 
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" /></a>
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40" /></a>
 
+<!-- DevOps & Cloud -->
 
-### 💻 Stack I Work With
+<a href="https://aws.amazon.com/getting-started/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" /></a>
+<a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40" /></a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" /></a>
 
-<br>
+<!-- AI & Agents -->
 
-<p  align="center">
-
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-  </p>
-  
-<p  align="center">
-
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-  &nbsp;
-<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-  </p>
-  
-  <p  align="center">
-
-  
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
- </p>
- 
- <p  align="center">
-
-  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  &nbsp;
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+<a href="https://python.langchain.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=langchain" alt="langchain" width="40" height="40" /></a>
 
 </p>
-<br>
-
-
-
-
-
-
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  
-  
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-
-
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-<br>
-
-
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                                    
-
-
-
-
-
-
-
-
-
-
-<br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-<br>
-
- <hr>
-
-
-
-
-
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-
-
-
-------
-
-
-
------- -->
+GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christiandavemontalban&show_icons=true&theme=dark&hide_border=true" alt="christiandavemontalban" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christiandavemontalban&theme=dark&hide_border=true" alt="christiandavemontalban" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiandavemontalban&layout=compact&theme=dark&hide_border=true" alt="christiandavemontalban" /></p>
